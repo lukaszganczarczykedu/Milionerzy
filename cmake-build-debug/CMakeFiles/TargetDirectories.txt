@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/Milionersss/cmake-build-debug/CMakeFiles/Milionersss.dir
+C:/Users/lukas/CLionProjects/Milionersss/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/Milionersss/cmake-build-debug/CMakeFiles/rebuild_cache.dir
